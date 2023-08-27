@@ -2,7 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: 👋 Hi there, I’m John (Juan).
+title: Hi there, I’m John (Juan).
 description: 🚀 As a Marketing Technology Specialist, I'm all about maximizing your brand's reach with tech-savvy strategies.
 
 📊 Proficient in leveraging data-driven insights and platform optimization
