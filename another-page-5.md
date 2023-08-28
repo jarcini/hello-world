@@ -1,5 +1,7 @@
 **The Scroll Game: Decoding How Social Media Algorithms Keep Us Hooked**
 
+![](https://upload.wikimedia.org/wikipedia/commons/d/d7/Spinning_top_02.gif)
+
 In the digital age, social media platforms have become our virtual playgrounds, offering an endless stream of content to explore. Have you ever wondered why it's so difficult to put down your phone once you start scrolling? The answer lies in the intricate algorithms designed to keep us engaged. In this blog post, we unravel the mechanics behind social media algorithms and how they work their magic to keep us scrolling.
 
 **The Algorithmic Symphony: Making Sense of Content**
@@ -51,3 +53,5 @@ Social media algorithms are complex mathematical formulas that determine the ord
 **Final Thoughts: Striking a Balance**
 
 Social media algorithms are designed to keep us engaged, and they're incredibly effective at it. However, as users, it's important to recognize their influence and strike a balance between enjoying the content and maintaining a healthy digital lifestyle. By being mindful of your engagement and making intentional choices, you can master the art of scrolling without falling into the algorithmic trap.
+
+*created using ChatGPT
