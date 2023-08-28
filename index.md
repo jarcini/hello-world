@@ -2,6 +2,13 @@
 
 [Revolutionizing Marketing: Unleashing the Power of AI Tools](./another-page-2.html).
 
+[The Viral Quotient: Unleashing Emotions for Social Media Success](./another-page-3.html).
+
+[The Paradox of Publicity: Debunking the Myth of "All Publicity Is Good Publicity"](./another-page-4.html).
+
+[The Scroll Game: Decoding How Social Media Algorithms Keep Us Hooked](./another-page-5.html).
+
+[The Art of Suggestive Copywriting: Unveiling Its Psychological Power](./another-page-6.html).
 
 **Proficient in leveraging data-driven insights and platform optimization.**
 Catch me brainstorming marketing strategies or diving into consumer insights – I'm a tech enthusiast with a marketing twist.
