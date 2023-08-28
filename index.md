@@ -1,3 +1,5 @@
+[The Art of Perception in Marketing: Shaping Consumer Realities](./another-page.html).
+
 **Proficient in leveraging data-driven insights and platform optimization.**
 Catch me brainstorming marketing strategies or diving into consumer insights – I'm a tech enthusiast with a marketing twist.
 **Just as I analyze data, I devour knowledge. Currently, I'm loving to read insights that fuel my marketing creativity.**
