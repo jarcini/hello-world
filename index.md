@@ -1,6 +1,11 @@
 <a href="https://www.linkedin.com/in/jarcini">
-  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Click me!" />
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Click me!" />
 </a>
+
+<a href="https://news.ycombinator.com/user?id=jarcini">
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/bf/Hackernews_logo.png" alt="Click me!" />
+</a>
+
 
 # Blog
 
