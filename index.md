@@ -2,7 +2,7 @@
   <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Click me!" />
 </a>
 
-### Blog
+# Blog
 
 [The Art of Perception in Marketing: Shaping Consumer Realities](./another-page.html).
 
@@ -16,7 +16,7 @@
 
 [The Art of Suggestive Copywriting: Unveiling Its Psychological Power](./another-page-6.html).
 
-### Library
+# Library
 
 | Title        | Link      | Rating
 |:-------------|:------------------|:------|
