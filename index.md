@@ -28,3 +28,9 @@
 > **Currently, I'm loving to read insights that fuel my marketing creativity.**
 > I'm a firm believer in Effective Altruism for marketing. Let's build campaigns that don't just sell but also resonate, contribute, and create a positive impact – no harm, just growth.
 > **Ready to blend the power of tech with compelling marketing? Let's make your brand shine!**
+
+
+
+<a href="https://www.linkedin.com/in/jarcini">
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Click me!" />
+</a>
