@@ -1,3 +1,7 @@
+<a href="https://www.linkedin.com/in/jarcini">
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Click me!" />
+</a>
+
 ### Blog
 
 [The Art of Perception in Marketing: Shaping Consumer Realities](./another-page.html).
@@ -31,6 +35,4 @@
 
 
 
-<a href="https://www.linkedin.com/in/jarcini">
-  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="Click me!" />
-</a>
+
