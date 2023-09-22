@@ -29,6 +29,6 @@
 > I'm a firm believer in Effective Altruism for marketing. Let's build campaigns that don't just sell but also resonate, contribute, and create a positive impact – no harm, just growth.
 > **Ready to blend the power of tech with compelling marketing? Let's make your brand shine!**
 
-
+Foto: Jonn Leffmann, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
 
 
